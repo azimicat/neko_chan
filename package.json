@@ -1,0 +1,15 @@
+{
+  "name": "neko_chan",
+  "version": "1.0.0",
+  "description": "給料日を通知するslack bot",
+  "main": "main.js",
+  "repository": "git@github.com:asahina-dev/neko_chan.git",
+  "author": "asahina_dev",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "@slack/client": "5.0.2",
+    "dateformat": "3.0.3",
+    "dotenv": "8.2.0"
+  }
+}
